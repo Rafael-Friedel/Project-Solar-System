@@ -12,14 +12,14 @@ img {
 }
 
 h1 {
-  text-align: center;
   color: white;
+  text-align: center;
 }
 
 div {
+  color: white;
   display: flex;
   flex-wrap: wrap;
-  color: white;
 }
 
 .planets {
@@ -33,9 +33,9 @@ h2, p{
 }
 
 .planet-card, .planets-dad {
+  align-items: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 .p {
