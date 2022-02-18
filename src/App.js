@@ -11,6 +11,7 @@ class App extends React.Component {
         <Header />
         <SolarSystem />
         <Missions />
+        <p>CREDITO: DEBS</p>
       </main>
     );
   }

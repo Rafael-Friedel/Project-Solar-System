@@ -25,4 +25,23 @@ div {
 .planets {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+}
+
+h2, p{
+  text-shadow: 0 0 10px black;
+}
+
+.planet-card, .planets-dad {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.p {
+  margin: 20px 5px;
+}
+
+main {
+  margin: auto;
 }
