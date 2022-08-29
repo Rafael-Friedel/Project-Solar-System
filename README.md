@@ -1,3 +1,5 @@
+![Exemplo app front](front-example.png)
+
 <details>
 <summary><strong> 🔰 Iniciando o projeto</strong></summary><br />
 
