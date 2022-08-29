@@ -1,3 +1,19 @@
+<details>
+<summary><strong> 🔰 Iniciando o projeto</strong></summary><br />
+
+1. Clone o repositório
+   `git clone git@github.com:Rafael-Friedel/Project-Solar-System.git `
+
+- Entre na pasta do repositório que você acabou de clonar:
+
+  - `cd Project-Solar-System`
+
+  2. Instale as dependências [**Caso existam**] \*`npm install`
+
+  3. Inicie o projeto para visualizar \*`npm start`
+
+</details>
+
 Projeto realizado para aplicar habilidades desenvolvidas no Bloco-10 - Introdução a React.
 
 Projeto realizado 100% dos requisitos obrigatórios e 100% dos requisitos totais.
