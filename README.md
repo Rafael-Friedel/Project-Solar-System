@@ -8,9 +8,9 @@
 
   - `cd Project-Solar-System`
 
-  2. Instale as dependências [**Caso existam**] \*`npm install`
+  - Instale as dependências [**Caso existam**] \*`npm install`
 
-  3. Inicie o projeto para visualizar \*`npm start`
+  - Inicie o projeto para visualizar \*`npm start`
 
 </details>
 
