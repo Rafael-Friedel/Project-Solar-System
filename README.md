@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <details>
 <summary><strong> 🔰 Iniciando o projeto</strong></summary><br />
 
@@ -14,13 +13,6 @@
   3. Inicie o projeto para visualizar \*`npm start`
 
 </details>
-=======
-1- git clone git@github.com:Rafael-Friedel/Project-Solar-System.git
-
-2- npm i
-
-3- npm start
->>>>>>> 78b6f5cbda5a27553b19b17704b9f5367b45df0e
 
 Projeto realizado para aplicar habilidades desenvolvidas no Bloco-10 - Introdução a React.
 
